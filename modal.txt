@@ -1,0 +1,58 @@
+<article class="work-cheongna">
+    <h3 class="sub-tit">cheongna</h3>
+    <a href="#" rel="modal:close">Close</a>
+    <img src="./images/cheongna/cheongna01.png" alt="청라1">
+     동사무소에서 가장 많이 사용하는 업무를 우선적으로 위에 배치
+    <img src="./images/cheongna/cheongna02.png" alt="청라2">
+    메인 네비게이션 안에 보조네비게이션 배치
+    <img src="./images/cheongna/cheongna03.png" alt="청라3">
+    사진을통해 주민센터를 확인하고 옆에 찾아오는길과 번호 배치
+    <img src="./images/cheongna/cheongna04.png" alt="청라4">
+    공지사항 및 주민센터에서 운영하는 프로그램을 확인하도록 배치
+    <img src="./images/cheongna/cheongna05.png" alt="청라5">
+    주소등이 입력된 푸터 배치
+    <img src="./images/cheongna/cheongna06.png" alt="청라6">
+    구상한 이미지 완성
+</article>
+<article class="work-hermes">
+    <h3 class="sub-tit">hermes</h3>
+    <a href="#" rel="modal:close">Close</a>
+    <img src="./images/hermes/hermes01.png" alt="헤르메스1">
+    인트로 구성
+    <img src="./images/hermes/hermes02.png" alt="헤르메스2">
+    브랜드와 관련된 영상 구성
+    <img src="./images/hermes/hermes03.png" alt="헤르메스3">
+    브랜드 로고와 메인네비게이션 구성
+    <img src="./images/hermes/hermes04.png" alt="헤르메스4">
+    메인 네비게이션안에 보조네비게이션 구성
+    <img src="./images/hermes/hermes05.png" alt="헤르메스5">
+    슬라이드 이미지를 통해 내용을 볼 수 있으며 확대하여 자세히 볼 수 있다.
+    <img src="./images/hermes/hermes06.png" alt="헤르메스6">
+    회사 주소 및 SNS 구성
+</article>
+<article class="work-movie">
+    <h3 class="sub-tit">movie</h3>
+    <a href="#" rel="modal:close">Close</a>
+    <img src="./images/movie/희극지왕01.png" alt="희극지왕1">
+    내용 수집 및 편집
+    <img src="./images/movie/희극지왕02.png" alt="희극지왕2">
+    영화 주연 소개
+    <img src="./images/movie/희극지왕03.png" alt="희극지왕3">
+    영상편집에 맞는 이펙트 추가
+    <img src="./images/movie/희극지왕04.png" alt="희극지왕4">
+    내용을 단계별로 구성
+</article>
+<article class="work-ad">
+    <h3 class="sub-tit">ad</h3>
+    <a href="#" rel="modal:close">Close</a>
+    <img src="./images/ad/ad01.png" alt="ad1">
+    첫장면에 광고의 상품 배치
+    <img src="./images/ad/ad02.png" alt="ad2">
+    스토리 배치
+    <img src="./images/ad/ad03.png" alt="ad3">
+    이미지에 맞는 이펙트 추가
+    <img src="./images/ad/ad04.png" alt="ad4">
+    전체적인 배치 및 구성 검토
+    <img src="./images/ad/ad05.png" alt="ad5">
+    마지막 기업 로고로 마무리
+</article>
