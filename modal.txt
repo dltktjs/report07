@@ -4,15 +4,15 @@
     <img src="./images/cheongna/cheongna01.png" alt="청라1">
      동사무소에서 가장 많이 사용하는 업무를 우선적으로 위에 배치
     <img src="./images/cheongna/cheongna02.png" alt="청라2">
-    메인 네비게이션 안에 보조네비게이션 배치
+     메인 네비게이션 안에 보조네비게이션 배치
     <img src="./images/cheongna/cheongna03.png" alt="청라3">
-    사진을통해 주민센터를 확인하고 옆에 찾아오는길과 번호 배치
+     사진을통해 주민센터를 확인하고 옆에 찾아오는길과 번호 배치
     <img src="./images/cheongna/cheongna04.png" alt="청라4">
-    공지사항 및 주민센터에서 운영하는 프로그램을 확인하도록 배치
+     공지사항 및 주민센터에서 운영하는 프로그램을 확인하도록 배치
     <img src="./images/cheongna/cheongna05.png" alt="청라5">
-    주소등이 입력된 푸터 배치
+     주소등이 입력된 푸터 배치
     <img src="./images/cheongna/cheongna06.png" alt="청라6">
-    구상한 이미지 완성
+     구상한 이미지 완성
 </article>
 <article class="work-hermes">
     <h3 class="sub-tit">hermes</h3>
@@ -32,6 +32,7 @@
 </article>
 <article class="work-movie">
     <h3 class="sub-tit">movie</h3>
+    
     <a href="#" rel="modal:close">Close</a>
     <img src="./images/movie/희극지왕01.png" alt="희극지왕1">
     내용 수집 및 편집
